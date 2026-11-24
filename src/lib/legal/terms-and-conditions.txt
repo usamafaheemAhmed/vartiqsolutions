@@ -1,0 +1,487 @@
+# TERMS AND CONDITIONS
+
+## Vantriq Solutions
+**Effective Date:** [Insert Effective Date]
+**Last Updated:** [Insert Last Updated Date]
+
+Welcome to Vantriq Solutions ("Company", "we", "our", or "us"). These Terms and Conditions govern your access to and use of our website, services, and any related products or solutions provided by Vantriq Solutions.
+
+By accessing our website, requesting a quotation, purchasing a service, signing a proposal, or otherwise engaging our services, you ("Client", "Customer", or "you") acknowledge that you have read, understood, and agreed to these Terms and Conditions.
+
+If you do not agree with these Terms, you should not use our website or engage our services.
+
+---
+
+## 1. About Vantriq Solutions
+Vantriq Solutions is a digital solutions and business support company providing technology, marketing, customer acquisition, and IT-related services.
+
+Our services may include, but are not limited to:
+
+- Web Development
+- Appointment Booking
+- Cold Calling
+- SEO Optimization
+- Lead Generation
+- Digital Marketing
+- App Development
+- IT Support
+- Back-end Development
+- Mobile Application Development
+- Cloud Infrastructure
+- Social Media Marketing
+The exact services, deliverables, pricing, and timelines will be determined by the relevant quotation, proposal, service agreement, or statement of work agreed upon with the Client.
+
+## 2. Acceptance of Terms
+By using our website or engaging our services, you confirm that:
+
+1. You are legally capable of entering into a binding agreement.
+2. You have the authority to enter into an agreement on behalf of yourself or the business you represent.
+3. The information you provide to us is accurate and complete.
+4. You agree to comply with these Terms and all applicable laws and regulations.
+5. You understand that additional service-specific agreements may apply.
+These Terms apply alongside any signed contracts, proposals, or service agreements. Where a specific written agreement conflicts with these general Terms, the specific written agreement will prevail to the extent of the conflict.
+
+## 3. Service Scope and Engagement
+3.1. Vantriq Solutions will provide services according to the agreed scope of work, proposal, quotation, or service agreement.
+
+3.2. Each project may include specific deliverables, milestones, estimated timelines, pricing, and responsibilities.
+
+3.3. Any service, feature, or deliverable not expressly included in the agreed scope will be considered additional work and may incur additional charges.
+
+3.4. We reserve the right to decline projects or service requests that are unlawful, unethical, impractical, or outside our capabilities.
+
+3.5. We may use employees, independent contractors, consultants, or third-party service providers to fulfill our obligations.
+
+3.6. We will make reasonable efforts to provide services professionally and in accordance with the agreed requirements.
+
+## 4. Pricing and Payment Terms
+4.1. All service prices will be communicated through a quotation, proposal, invoice, or written agreement.
+
+4.2. Depending on the nature of the project, payment arrangements may include:
+
+- Full payment in advance.
+- An initial deposit followed by milestone payments.
+- Monthly subscriptions or recurring service fees.
+- Hourly or time-based billing.
+- Performance-based arrangements, where expressly agreed in writing.
+4.3. Unless otherwise agreed, work will commence after the required advance payment has been received.
+
+4.4. Invoices must be paid within the payment period specified on the invoice.
+
+4.5. Payments made to Vantriq Solutions are subject to the applicable payment processing fees, banking charges, or currency conversion fees, where relevant.
+
+4.6. Late payments may result in:
+
+- Temporary suspension of services.
+- Delayed project delivery.
+- Suspension of access to relevant services or accounts.
+- Additional reasonable collection costs where legally permitted.
+4.7. For recurring services, the Client is responsible for ensuring timely monthly or periodic payments.
+
+4.8. Any applicable taxes, duties, or government charges will be handled in accordance with applicable laws and the agreed pricing arrangement.
+
+## 5. Project Timelines and Delivery
+5.1. Project timelines are estimates based on the agreed scope and the information available at the beginning of the engagement.
+
+5.2. We will make reasonable efforts to meet agreed deadlines.
+
+5.3. Delays may occur due to:
+
+- Late submission of content or information by the Client.
+- Delayed feedback or approvals.
+- Changes in project requirements.
+- Third-party service interruptions.
+- Technical difficulties or unforeseen circumstances.
+- Events beyond our reasonable control.
+5.4. Vantriq Solutions will not be responsible for delays caused by the Client or third-party providers outside our reasonable control.
+
+5.5. Any significant changes to the original project scope may require a revised timeline and additional charges.
+
+## 6. Revisions and Change Requests
+6.1. The number of revisions included in a project will be specified in the relevant proposal or agreement.
+
+6.2. Revisions must remain within the originally agreed scope.
+
+6.3. Requests involving new features, substantial design changes, additional functionality, or new deliverables may be treated as change requests.
+
+6.4. Additional work may require separate pricing and written approval before implementation.
+
+6.5. Once a deliverable has been approved by the Client, further modifications may be chargeable.
+
+## 7. Client Responsibilities
+The Client agrees to:
+
+7.1. Provide accurate, complete, and timely information required to perform the services.
+
+7.2. Provide necessary access to websites, hosting accounts, social media accounts, advertising platforms, CRM systems, and other relevant tools.
+
+7.3. Ensure that all supplied materials, including images, videos, logos, content, databases, and contact lists, are legally authorized for use.
+
+7.4. Review deliverables and provide feedback within reasonable agreed timeframes.
+
+7.5. Ensure that their business activities comply with applicable laws and regulations.
+
+7.6. Maintain appropriate backups of their existing systems and data unless backup services are expressly included in the agreement.
+
+7.7. Avoid providing false, misleading, unlawful, or unauthorized information.
+
+7.8. Remain responsible for final business decisions, customer interactions, and the use of deliverables provided by Vantriq Solutions.
+
+Failure to fulfill these responsibilities may affect project timelines, quality, or service availability.
+
+## 8. Website and Software Development Services
+For website development, back-end development, and related software services:
+
+8.1. We will develop websites and software according to the agreed specifications and requirements.
+
+8.2. The Client is responsible for reviewing and approving designs, functionality, and project milestones.
+
+8.3. Unless otherwise agreed, domain registration, hosting, premium themes, plugins, APIs, third-party subscriptions, and other external costs are not included in development fees.
+
+8.4. We will make reasonable efforts to deliver functional and secure solutions. However, no software or website can be guaranteed to remain completely free from errors, vulnerabilities, or interruptions.
+
+8.5. Compatibility with browsers, operating systems, devices, or third-party platforms will depend on the agreed technical specifications.
+
+8.6. Ongoing maintenance, updates, backups, security monitoring, and technical support are not included unless expressly mentioned in the service agreement.
+
+8.7. Ownership and transfer of custom-developed source code and final deliverables will be governed by Section 17 of these Terms.
+
+## 9. App and Mobile Application Development
+9.1. Mobile application development will follow the agreed platform, functionality, and technical specifications.
+
+9.2. App Store and Google Play approval is controlled by the respective platform providers and cannot be guaranteed by Vantriq Solutions.
+
+9.3. The Client is responsible for developer accounts, platform fees, licenses, and any required business verification unless otherwise agreed.
+
+9.4. Third-party SDKs, APIs, payment gateways, maps, authentication services, and other integrations may be subject to separate terms and charges.
+
+9.5. Changes in platform policies or operating system requirements may require additional development work.
+
+## 10. SEO Optimization Services
+10.1. SEO services may include technical SEO, on-page optimization, local SEO, content optimization, keyword research, and link-building activities.
+
+10.2. Search engine rankings are influenced by algorithms and factors outside our control.
+
+10.3. Vantriq Solutions does not guarantee:
+
+- Specific Google rankings.
+- A particular number of visitors.
+- A guaranteed increase in sales or revenue.
+- A fixed timeline for ranking improvements.
+10.4. SEO results may take time and vary depending on competition, website quality, industry, search engine updates, and other factors.
+
+10.5. We will not knowingly use prohibited or deceptive SEO techniques as part of our agreed services.
+
+10.6. Any third-party SEO tools, premium subscriptions, advertising costs, or external content expenses will be charged separately unless included in the agreement.
+
+## 11. Digital Marketing and Social Media Marketing
+11.1. Digital marketing services may include social media management, paid advertising, campaign management, content creation, and performance reporting.
+
+11.2. The Client must provide accurate business information, approved marketing materials, and any necessary advertising account access.
+
+11.3. Advertising budgets, platform charges, and third-party subscription fees are separate from our service fees unless expressly included.
+
+11.4. We do not guarantee specific impressions, engagement rates, followers, leads, conversions, or revenue.
+
+11.5. Social media and advertising platforms may modify their policies, algorithms, pricing, or account requirements without prior notice.
+
+11.6. We are not responsible for account suspensions, advertising rejections, or platform restrictions resulting from the Client's business practices, supplied materials, or third-party platform decisions.
+
+11.7. The Client remains responsible for approving marketing claims, promotional offers, and business representations before publication.
+
+## 12. Lead Generation Services
+12.1. Lead generation services may include prospect research, B2B or B2C contact list development, email outreach, and qualified lead handoff.
+
+12.2. Lead criteria, target audience, geographical areas, and qualification requirements will be agreed upon before the engagement.
+
+12.3. We will make reasonable efforts to provide leads matching the agreed criteria.
+
+12.4. We do not guarantee that every lead will convert into a paying customer or generate revenue.
+
+12.5. The Client is responsible for reviewing leads, following up, and handling subsequent sales activities unless otherwise agreed.
+
+12.6. Contact data will be collected and processed in accordance with applicable privacy and data protection laws.
+
+12.7. The Client must not use lead data for unlawful, misleading, spam-related, or unauthorized activities.
+
+## 13. Appointment Booking Services
+13.1. Appointment booking services may include appointment scheduling, calendar management, follow-ups, reminders, and communication with prospective customers.
+
+13.2. The Client must provide accurate availability, scheduling rules, qualification requirements, and booking instructions.
+
+13.3. We will make reasonable efforts to schedule appointments according to the agreed criteria.
+
+13.4. We cannot guarantee that scheduled prospects will attend appointments, purchase services, or become customers.
+
+13.5. The Client is responsible for attending appointments, providing services to booked prospects, and managing subsequent business interactions.
+
+13.6. Any cancellation, rescheduling, or no-show policies applicable to the Client's business should be communicated to us in advance.
+
+## 14. Cold Calling Services
+14.1. Cold calling services may include outbound prospecting, scripted calls, appointment setting, follow-ups, and call reporting.
+
+14.2. The Client is responsible for providing accurate information about its products, services, pricing, and promotional claims.
+
+14.3. Call scripts and campaign instructions must comply with applicable telemarketing, consumer protection, privacy, and do-not-call regulations.
+
+14.4. The Client must provide lawful contact lists or authorize the agreed sourcing method.
+
+14.5. We will make reasonable efforts to follow the approved scripts and campaign requirements.
+
+14.6. We do not guarantee a particular number of sales, appointments, conversions, or successful contacts unless a specific measurable commitment is expressly included in a written agreement.
+
+14.7. Call recordings, where applicable, will only be made and retained in accordance with applicable laws and agreed procedures.
+
+## 15. IT Support and Cloud Infrastructure
+15.1. IT support services may include technical troubleshooting, hosting maintenance, server management, monitoring, security assistance, and infrastructure management.
+
+15.2. The scope of support, service availability, response times, and support hours will be specified in the relevant service agreement.
+
+15.3. A 24/7 support commitment applies only where expressly included in the purchased service plan.
+
+15.4. We will make reasonable efforts to maintain the availability, security, and performance of managed systems.
+
+15.5. We are not responsible for outages, failures, or interruptions caused by:
+
+- Internet or telecommunications providers.
+- Cloud hosting providers.
+- Third-party software or infrastructure.
+- Cyberattacks or security incidents beyond our reasonable control.
+- Client-side configuration changes.
+- Events beyond our reasonable control.
+15.6. The Client remains responsible for maintaining appropriate access controls, credentials, and business continuity arrangements.
+
+15.7. Backup, disaster recovery, and incident response services are included only where specifically agreed.
+
+15.8. We may temporarily suspend maintenance or infrastructure services when necessary for security, upgrades, or emergency repairs.
+
+## 16. Communication and Approvals
+16.1. Official project communication may take place through email, agreed messaging platforms, project management systems, or other designated communication channels.
+
+16.2. The Client should nominate an authorized representative for project instructions and approvals.
+
+16.3. Approvals, instructions, and scope changes communicated through agreed channels may be treated as written authorization.
+
+16.4. The Client is responsible for reviewing communications and providing timely responses.
+
+16.5. We may rely on instructions received from the Client's authorized representatives.
+
+## 17. Intellectual Property and Ownership
+17.1. Upon receipt of full payment, the Client will own the custom-developed final deliverables specifically created for the Client under the relevant agreement, subject to the exclusions below.
+
+17.2. Vantriq Solutions retains ownership of its pre-existing materials, proprietary tools, reusable code, frameworks, templates, methodologies, processes, and internal systems.
+
+17.3. Third-party software, open-source libraries, plugins, fonts, stock images, and other licensed materials remain subject to their respective license agreements.
+
+17.4. Where third-party licenses apply, the Client must comply with their terms and any applicable renewal or subscription fees.
+
+17.5. Until full payment is received, ownership transfer of the relevant custom deliverables will not take effect, and we may withhold final source code, credentials, or project files where legally permitted.
+
+17.6. Neither party may use the other party's trademarks, logos, or branding without appropriate authorization.
+
+17.7. Vantriq Solutions may display completed work in its portfolio or marketing materials only where permitted by the Client's agreement and without disclosing confidential information.
+
+## 18. Confidentiality
+18.1. Both parties agree to protect confidential information received during the business relationship.
+
+18.2. Confidential information may include:
+
+- Business strategies and plans.
+- Customer and prospect information.
+- Financial and operational information.
+- Login credentials and technical configurations.
+- Proprietary software and documentation.
+- Marketing strategies and internal processes.
+18.3. Confidential information must not be disclosed to unauthorized third parties without prior written permission, except where disclosure is required by law or necessary to perform the agreed services.
+
+18.4. Each party will take reasonable steps to prevent unauthorized access, disclosure, or misuse of confidential information.
+
+18.5. These confidentiality obligations will continue after the termination of the business relationship.
+
+## 19. Data Protection and Privacy
+19.1. Vantriq Solutions will handle personal information in accordance with applicable data protection and privacy laws.
+
+19.2. We will use Client information only for legitimate business purposes, including service delivery, communication, billing, support, and other agreed activities.
+
+19.3. The Client is responsible for ensuring that it has the necessary rights, permissions, and lawful basis to share personal data with us.
+
+19.4. Where we process personal data on behalf of a Client, the parties may enter into a separate Data Processing Agreement (DPA).
+
+19.5. We will take reasonable technical and organizational measures to protect information against unauthorized access, loss, or disclosure.
+
+19.6. Information may be processed or stored using third-party providers, including cloud hosting, CRM, communication, analytics, and project management platforms, where required to deliver services.
+
+19.7. We will not knowingly sell Client confidential information or personal data to unauthorized third parties.
+
+19.8. Data retention, deletion, and transfer arrangements may be further specified in our Privacy Policy or a separate written agreement.
+
+## 20. Third-Party Services and Integrations
+20.1. Our services may rely on third-party platforms, tools, APIs, software, hosting providers, payment gateways, advertising networks, or communication services.
+
+20.2. These third-party services are subject to their own terms, policies, availability, and pricing.
+
+20.3. Vantriq Solutions is not responsible for changes, failures, suspensions, or interruptions caused by third-party providers outside our reasonable control.
+
+20.4. The Client may be required to create and maintain its own third-party accounts and subscriptions.
+
+20.5. We will not be responsible for additional third-party charges unless expressly included in the agreed service pricing.
+
+## 21. Refunds and Cancellations
+21.1. Refund eligibility will depend on the nature of the service, work completed, payments made, and any specific refund agreement.
+
+21.2. Payments for completed work, services already delivered, or costs already incurred on behalf of the Client are generally non-refundable, subject to applicable consumer protection laws.
+
+21.3. For project-based services, cancellation requests must be submitted in writing.
+
+21.4. If a project is cancelled after work has commenced, the Client may be responsible for:
+
+- Work completed up to the cancellation date.
+- Approved expenses and third-party costs.
+- Non-cancellable commitments.
+- Other agreed cancellation charges.
+21.5. Advance payments will be reconciled against the amounts owed, and any eligible balance will be handled in accordance with the applicable agreement and law.
+
+21.6. For recurring services, cancellation procedures and notice periods will follow the relevant subscription or service agreement.
+
+21.7. No refund will be denied where a refund is required by applicable law.
+
+## 22. Suspension and Termination
+22.1. Either party may terminate a service agreement in accordance with its agreed notice period and termination provisions.
+
+22.2. Vantriq Solutions may suspend or terminate services where:
+
+- The Client fails to make required payments.
+- The Client breaches these Terms or an applicable agreement.
+- The Client engages in unlawful or fraudulent activities.
+- The Client provides false, misleading, or unauthorized information.
+- Continuing the service creates a material legal, security, or reputational risk.
+22.3. Where reasonably possible, we will provide notice and an opportunity to resolve the issue before suspension or termination.
+
+22.4. Upon termination, the Client remains responsible for outstanding invoices and approved expenses.
+
+22.5. Subject to full payment and applicable agreements, eligible completed deliverables will be transferred to the Client.
+
+22.6. Clauses relating to payment obligations, intellectual property, confidentiality, liability, and dispute resolution will survive termination where applicable.
+
+## 23. Warranties and Disclaimers
+23.1. Vantriq Solutions will provide services with reasonable skill, care, and professionalism.
+
+23.2. We do not guarantee uninterrupted, error-free, or completely secure operation of websites, applications, hosting environments, marketing platforms, or third-party services.
+
+23.3. We do not guarantee specific business outcomes, including revenue, profits, search rankings, lead conversions, customer acquisition, or advertising performance.
+
+23.4. Any estimated performance results, timelines, or projections are provided for planning purposes and are not guarantees unless expressly agreed in writing.
+
+23.5. Nothing in these Terms excludes warranties or rights that cannot legally be excluded under applicable law.
+
+## 24. Limitation of Liability
+24.1. To the maximum extent permitted by applicable law, Vantriq Solutions will not be liable for indirect, incidental, special, punitive, or consequential losses, including loss of profits, revenue, business opportunities, goodwill, or anticipated savings.
+
+24.2. We will not be liable for losses arising from:
+
+- Incorrect or incomplete information supplied by the Client.
+- Unauthorized changes made by the Client or third parties.
+- Third-party platform failures or service interruptions.
+- Client misuse of delivered products or services.
+- Events beyond our reasonable control.
+24.3. Subject to applicable law, our total aggregate liability arising out of or relating to a particular service engagement will not exceed the total fees actually paid by the Client to Vantriq Solutions for that specific engagement during the six (6) months immediately preceding the event giving rise to the claim.
+
+24.4. This limitation does not apply to liabilities that cannot legally be limited or excluded, including liability arising from fraud, willful misconduct, or other non-excludable obligations under applicable law.
+
+## 25. Indemnification
+The Client agrees, to the extent permitted by law, to indemnify and hold Vantriq Solutions, its employees, contractors, and representatives harmless against third-party claims, losses, damages, and reasonable legal expenses arising from:
+
+25.1. The Client's unlawful business activities.
+
+25.2. Content, materials, or data supplied by the Client that infringe third-party rights.
+
+25.3. The Client's misuse of services or deliverables.
+
+25.4. The Client's violation of applicable laws or third-party terms.
+
+25.5. Any unauthorized or misleading claims made by the Client in connection with its products or services.
+
+This clause does not apply to the extent that a claim results from Vantriq Solutions' own negligence, willful misconduct, or breach of its legal obligations.
+
+## 26. Compliance with Laws
+26.1. Both parties agree to comply with applicable local, national, and international laws and regulations.
+
+26.2. The Client is responsible for ensuring that its business activities, products, advertising claims, customer communications, and marketing campaigns are lawful.
+
+26.3. Where services involve calling, email outreach, lead generation, personal data, or digital advertising, the parties will cooperate to meet applicable privacy, anti-spam, telemarketing, consumer protection, and advertising requirements.
+
+26.4. Vantriq Solutions reserves the right to refuse or discontinue activities that it reasonably believes violate applicable laws or regulations.
+
+## 27. Force Majeure
+Neither party will be held responsible for delays or failure to perform obligations caused by circumstances beyond its reasonable control, including:
+
+- Natural disasters.
+- War, terrorism, or civil unrest.
+- Government restrictions or regulatory actions.
+- Internet or telecommunications outages.
+- Cloud infrastructure or widespread platform failures.
+- Power outages.
+- Epidemics or pandemics.
+- Other unforeseen events beyond reasonable control.
+The affected party will make reasonable efforts to notify the other party and resume performance as soon as practicable.
+
+## 28. Dispute Resolution
+28.1. If a dispute arises, both parties agree to first attempt to resolve it through good-faith discussions.
+
+28.2. If the dispute cannot be resolved informally, the parties may consider mediation or another mutually agreed dispute resolution process.
+
+28.3. If no resolution is reached, either party may pursue available legal remedies before a competent court or tribunal.
+
+28.4. Any specific dispute resolution procedure agreed in a signed service agreement will take precedence where legally enforceable.
+
+## 29. Governing Law and Jurisdiction
+These Terms will be governed by the laws of [Insert Governing Country and Applicable Jurisdiction], without regard to conflict-of-law principles.
+
+Subject to applicable mandatory consumer protection laws, disputes arising out of these Terms will be submitted to the competent courts of [Insert City and Country].
+
+## 30. Amendments to These Terms
+30.1. Vantriq Solutions reserves the right to update or modify these Terms when necessary.
+
+30.2. Updated Terms will be published on our website with a revised "Last Updated" date.
+
+30.3. Material changes affecting existing service engagements will be communicated where reasonably practicable.
+
+30.4. Changes will not retroactively modify an existing signed agreement unless both parties agree or applicable law permits otherwise.
+
+30.5. Continued use of our website or services after updated Terms become effective constitutes acceptance of the updated Terms, where legally permitted.
+
+## 31. Severability
+If any provision of these Terms is found to be invalid, unlawful, or unenforceable, the remaining provisions will continue in full force and effect.
+
+The invalid provision will be interpreted or modified to the minimum extent necessary to make it enforceable, where legally permitted.
+
+## 32. Entire Agreement
+These Terms, together with any applicable proposals, quotations, invoices, service agreements, and additional policies, constitute the agreement between Vantriq Solutions and the Client regarding the relevant services.
+
+They supersede previous discussions or understandings relating to the same subject matter, except where otherwise agreed in writing.
+
+## 33. No Waiver
+Failure or delay by either party to exercise any right under these Terms will not constitute a waiver of that right.
+
+Any waiver must be made in writing to be effective.
+
+## 34. Assignment
+The Client may not transfer or assign its rights or obligations under these Terms without prior written consent from Vantriq Solutions.
+
+Vantriq Solutions may assign or transfer its rights and obligations as part of a business restructuring, merger, acquisition, or transfer of business, provided applicable legal obligations are maintained.
+
+## 35. Contact Information
+For questions, concerns, service inquiries, or legal notices regarding these Terms and Conditions, please contact:
+
+**Vantriq Solutions**
+
+- Website: [Insert Company Website]
+- Email: [Insert Official Business Email]
+- Phone: [Insert Contact Number]
+- Business Address: [Insert Registered Business Address]
+
+---
+
+**By engaging Vantriq Solutions or using our services, you acknowledge that you have read and agreed to these Terms and Conditions.**
+
+© [Year] Vantriq Solutions. All Rights Reserved.
