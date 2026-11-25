@@ -10,8 +10,7 @@ const quickLinks = [
   { to: "/", label: "Home" },
   { to: "/about", label: "About" },
   { to: "/services", label: "Services" },
-  { to: "/case-studies", label: "Case Studies" },
-  { to: "/pricing", label: "Pricing" },
+  { to: "/our-team", label: "Our Team" },
   { to: "/contact", label: "Contact" },
 ] as const;
 
@@ -68,26 +67,8 @@ export function SiteFooter() {
           ))}
         </FooterCol>
 
-        <FooterCol title="Our Services">
-          {SERVICES.map((s) => (
-            <li key={s.title}>
-              <Link to="/services" className="hover:text-primary-glow">
-                {s.title}
-              </Link>
-            </li>
-          ))}
-        </FooterCol>
-
         <FooterCol title="Support">
           {[
-            {
-              title: "Help Center",
-              to: "/contact",
-            },
-            {
-              title: "FAQs",
-              to: "/contact#FAQs",
-            },
             {
               title: "Terms & Conditions",
               to: "/terms-conditions",
@@ -103,6 +84,16 @@ export function SiteFooter() {
               </Link>
             </li>
           ))}
+        </FooterCol>
+
+        <FooterCol title="">
+          {/* {SERVICES.map((s) => (
+            <li key={s.title}>
+              <Link to="/services" className="hover:text-primary-glow">
+                {s.title}
+              </Link>
+            </li>
+          ))} */}
         </FooterCol>
 
         <div>

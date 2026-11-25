@@ -15,12 +15,17 @@ import {
   Server,
   Cloud,
   Share2,
+  Search,
+  Layers,
+  Target,
+  HeartHandshake,
+  TrendingUp
 } from "lucide-react";
 
 export const SITE = {
   name: "Vantriqsolutions",
   domain: "Vantriqsolutions.com",
-  email: "hello@vantriqsolutions.com",
+  email: "support@vantriqsolutions.com",
   phone: "+92 310 8322013",
   address: "Lahore, Pakistan",
 };
@@ -93,7 +98,7 @@ export const SERVICES: Service[] = [
     points: ["24/7 helpdesk", "Hosting & maintenance", "Security monitoring"],
   },
   {
-    title: "Back end developer",
+    title: "Backend Developer",
     description:
       "Build powerful, scalable, and secure server-side applications to power your business.",
     icon: Server,
@@ -105,7 +110,7 @@ export const SERVICES: Service[] = [
     ],
   },
   {
-    title: "Mobile apps",
+    title: "Mobile Apps",
     description:
       "Create seamless mobile experiences with feature-rich applications for Android and iOS.",
     icon: Smartphone,
@@ -117,7 +122,7 @@ export const SERVICES: Service[] = [
     ],
   },
   {
-    title: "Cloud infrastructure",
+    title: "Cloud Infrastructure",
     description:
       "Deploy and manage reliable cloud environments that keep your applications scalable and accessible.",
     icon: Cloud,
@@ -129,7 +134,7 @@ export const SERVICES: Service[] = [
     ],
   },
   {
-    title: "Social media marketing",
+    title: "Social Media Marketing",
     description:
       "Grow your online presence and connect with your audience through strategic social media campaigns.",
     icon: Share2,
@@ -157,38 +162,76 @@ export const HERO_STATS: { value: string; label: string; icon: LucideIcon }[] = 
   { value: "8+", label: "Years Experience", icon: Trophy },
 ];
 
-export const PROCESS = [
+export type TeamMember = {
+  name: string;
+  role: string;
+  bio: string;
+  avatar: "ali" | "sarah" | "usman" | "musama" | "usama";
+};
+
+export const TEAM_MEMBERS: TeamMember[] = [
   {
-    step: "01",
-    title: "Discovery & Goal Mapping",
-    text: "We understand your goals and business needs.",
+    name: "Muhammed Usama",
+    role: "CEO Leads",
+    bio: "Builds fast, accessible and scalable digital experiences for growing businesses.",
+    avatar: "musama",
   },
   {
-    step: "02",
-    title: "Building Your Foundation",
-    text: "We create a tailored strategy and roadmap.",
+    name: "Usama Faheem Ahmed",
+    role: "Full stack Developer (MERN)",
+    bio: "Full-Stack Engineer, Team Lead, Software Design, Automation Engineer and WordPress who delivers end-to-end solutions, from code to cloud deployment.",
+    avatar: "usama",
   },
   {
-    step: "03",
-    title: "Reaching the Right People",
-    text: "We connect you with your ideal audience.",
-  },
-  {
-    step: "04",
-    title: "Booking Qualified Meetings",
-    text: "We fill your calendar with real opportunities.",
-  },
-  {
-    step: "05",
-    title: "Dedicated Customer Care",
-    text: "We support you and your clients every step of the way.",
-  },
-  {
-    step: "06",
-    title: "Refining & Scaling Results",
-    text: "We optimize and grow your results long-term.",
+    name: "Ali Irtiah Mukhat",
+    role: "Sales Operations Lead",
+    bio: "Leads qualified outreach and appointment-setting programs that keep pipelines moving.",
+    avatar: "usman",
   },
 ];
+
+// export const PROCESS = [
+//   {
+//     step: "01",
+//     title: "Discovery & Goal Mapping",
+//     text: "We understand your goals and business needs.",
+//   },
+//   {
+//     step: "02",
+//     title: "Building Your Foundation",
+//     text: "We create a tailored strategy and roadmap.",
+//   },
+//   {
+//     step: "03",
+//     title: "Reaching the Right People",
+//     text: "We connect you with your ideal audience.",
+//   },
+//   {
+//     step: "04",
+//     title: "Booking Qualified Meetings",
+//     text: "We fill your calendar with real opportunities.",
+//   },
+//   {
+//     step: "05",
+//     title: "Dedicated Customer Care",
+//     text: "We support you and your clients every step of the way.",
+//   },
+//   {
+//     step: "06",
+//     title: "Refining & Scaling Results",
+//     text: "We optimize and grow your results long-term.",
+//   },
+// ];
+
+export const PROCESS = [
+  { step: "01", icon: Search, title: "Discovery & Goal Mapping", text: "We understand your goals and business needs." },
+  { step: "02", icon: Layers, title: "Building Your Foundation", text: "We create a tailored strategy and roadmap." },
+  { step: "03", icon: Target, title: "Reaching the Right People", text: "We connect you with your ideal audience." },
+  { step: "04", icon: CalendarCheck, title: "Booking Qualified Meetings", text: "We fill your calendar with real opportunities." },
+  { step: "05", icon: HeartHandshake, title: "Dedicated Customer Care", text: "We support you and your clients every step of the way." },
+  { step: "06", icon: TrendingUp, title: "Refining & Scaling Results", text: "We optimize and grow your results long-term." },
+];
+
 
 export const WHY_POINTS = [
   "Hands-Off Lead Generation",
@@ -326,7 +369,6 @@ export const NAV_LINKS = [
   { to: "/", label: "Home" },
   { to: "/services", label: "Services" },
   { to: "/about", label: "About" },
-  { to: "/case-studies", label: "Case Studies" },
-  { to: "/pricing", label: "Pricing" },
+  { to: "/our-team", label: "Our Team" },
   { to: "/contact", label: "Contact" },
 ] as const;

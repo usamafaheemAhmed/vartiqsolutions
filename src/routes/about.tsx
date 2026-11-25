@@ -32,17 +32,17 @@ const values = [
   {
     icon: Target,
     title: "Our Mission",
-    text: "Give every business access to the technology and sales support big companies have.",
+    text: "To empower businesses with reliable software, cloud, and IT solutions paired with high-converting marketing and outreach—all under one roof.",
   },
   {
     icon: Eye,
     title: "Our Vision",
-    text: "Be the most trusted growth partner for small and mid-sized businesses worldwide.",
+    text: "To be the most trusted all-in-one tech and growth partner for ambitious businesses worldwide.",
   },
   {
     icon: HeartHandshake,
     title: "Our Promise",
-    text: "Clear communication, honest reporting and results you can measure.",
+    text: "Transparent communication, daily reporting, and measurable results across every build and campaign.",
   },
 ];
 

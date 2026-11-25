@@ -27,8 +27,8 @@ export function Hero() {
             Grow Your Business With <span className="text-brand-gradient">Smart IT</span> Solutions
           </h1>
           <p className="mt-6 max-w-xl animate-fade-up text-lg leading-relaxed text-muted-foreground [animation-delay:160ms]">
-            Web development, SEO, lead generation, cold calling and appointment booking — all under
-            one roof.
+            From custom web, mobile, and backend engineering to SEO, social media, lead generation,
+            and appointment booking—built to scale your business.
           </p>
           <div className="mt-8 flex animate-fade-up flex-wrap gap-3 [animation-delay:240ms]">
             <Button asChild variant="brand" size="xl">
