@@ -17,7 +17,7 @@ const buttonVariants = cva(
         ghost: "hover:bg-accent hover:text-accent-foreground",
         link: "text-primary underline-offset-4 hover:underline",
         brand:
-          "bg-primary text-primary-foreground font-semibold shadow-glow hover:-translate-y-0.5 hover:brightness-105 transition-all",
+          "bg-coral text-coral-foreground font-semibold shadow-coral hover:-translate-y-0.5 hover:brightness-105 transition-all",
         coral:
           "bg-coral text-coral-foreground font-semibold shadow-coral hover:-translate-y-0.5 hover:brightness-105 transition-all",
         "outline-brand":

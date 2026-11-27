@@ -39,7 +39,7 @@ function Index() {
       <ServicesSection />
       <ProcessSection />
       <WhyChooseUs />
-      <Testimonials />
+      {/* <Testimonials /> */}
       <CtaBanner />
     </>
   );

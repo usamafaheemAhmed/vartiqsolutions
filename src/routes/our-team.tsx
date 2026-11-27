@@ -1,12 +1,14 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { Code2, HeartHandshake, Megaphone, PhoneCall } from "lucide-react";
 
-import ali from "@/assets/avatar-ali.jpg";
-import sarah from "@/assets/avatar-sarah.jpg";
 import teamOffice from "@/assets/team-office.jpg";
-import usman from "@/assets/avatar-usman.jpg";
-import musama from "@/assets/avatar-usman.jpg";
-import usama from "@/assets/usama-faheem-ahmed.jpg";
+import MU from "@/assets/Muhammad-usama.jpg";
+import SN from "@/assets/avatar-sarah.jpg";
+import TF from "@/assets/avatar-sarah.jpg";
+import UFA from "@/assets/usama-faheem-ahmed-white.jpg";
+import AIM from "@/assets/ali-irtiah-mukhat.jpg";
+import AA from "@/assets/arsalan-ali.jpg";
+import MAK from "@/assets/Muhammad-ali-khan.jpg";
 import { CtaBanner } from "@/components/site/CtaBanner";
 import { PageHero } from "@/components/site/PageHero";
 import { TEAM_MEMBERS } from "@/lib/site-data";
@@ -31,7 +33,15 @@ export const Route = createFileRoute("/our-team")({
   component: OurTeamPage,
 });
 
-const AVATARS = { ali, sarah, usman, musama, usama };
+const AVATARS = {
+  MU,
+  SN,
+  UFA,
+  AIM,
+  AA,
+  MAK,
+  TF,
+};
 
 const capabilities = [
   {
@@ -111,27 +121,30 @@ function OurTeamPage() {
             </p>
           </div>
 
-          <div className="mt-10 grid gap-6 md:grid-cols-3">
+          {/* Compact member list: circular photo, name and title only.
+              Flex-wrap + justify-center keeps an incomplete last row centered,
+              so it looks balanced with any number of members (12, 17, ...). */}
+          <ul className="mt-12 flex flex-wrap justify-center gap-x-6 gap-y-10">
             {TEAM_MEMBERS.map((member) => (
-              <article
+              <li
                 key={member.name}
-                className="overflow-hidden rounded-3xl border border-border bg-card text-center shadow-card"
+                className="group flex w-[calc(50%-0.75rem)] flex-col items-center text-center sm:w-[calc(33.333%-1rem)] lg:w-[calc(25%-1.125rem)]"
               >
-                <div className="aspect-[4/3] overflow-hidden bg-muted">
+                <div className="size-28 overflow-hidden rounded-full bg-muted shadow-card ring-4 ring-background transition-transform duration-300 group-hover:scale-105 sm:size-32 lg:size-36">
                   <img
                     src={AVATARS[member.avatar]}
                     alt={member.name}
+                    loading="lazy"
                     className="h-full w-full object-cover object-center"
                   />
                 </div>
-                <div className="p-6">
-                  <h3 className="text-xl font-bold text-foreground">{member.name}</h3>
-                  <p className="mt-1 text-sm font-semibold text-primary">{member.role}</p>
-                  <p className="mt-3 text-sm leading-6 text-muted-foreground">{member.bio}</p>
-                </div>
-              </article>
+                <h3 className="mt-4 text-base font-bold text-foreground md:text-lg">
+                  {member.name}
+                </h3>
+                <p className="mt-0.5 text-sm font-semibold text-primary">{member.role}</p>
+              </li>
             ))}
-          </div>
+          </ul>
         </div>
       </section>
 

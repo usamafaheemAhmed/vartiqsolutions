@@ -78,7 +78,7 @@ function AboutPage() {
         </div>
       </section>
       <WhyChooseUs />
-      <Testimonials />
+      {/* <Testimonials /> */}
       <CtaBanner />
     </>
   );

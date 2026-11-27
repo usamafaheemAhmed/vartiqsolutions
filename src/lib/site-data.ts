@@ -66,14 +66,14 @@ export const SERVICES: Service[] = [
     title: "SEO Optimization",
     description: "Rank higher on Google, get more traffic and grow organically.",
     icon: BarChart3,
-    tint: "pink",
+    tint: "orange",
     points: ["Technical & on-page SEO", "Local SEO", "Content & link building"],
   },
   {
     title: "Lead Generation",
     description: "Targeted lead generation strategies to bring you quality leads.",
     icon: Users,
-    tint: "violet",
+    tint: "orange",
     points: ["B2B & B2C prospect lists", "Email outreach", "Qualified lead handoff"],
   },
   {
@@ -166,27 +166,46 @@ export type TeamMember = {
   name: string;
   role: string;
   bio: string;
-  avatar: "ali" | "sarah" | "usman" | "musama" | "usama";
+  avatar: "MU" | "SN" | "UFA" | "AIM" | "AA" | "MAK" | "TF";
 };
 
 export const TEAM_MEMBERS: TeamMember[] = [
   {
-    name: "Muhammed Usama",
-    role: "CEO Leads",
+    name: "Muhammad Usama",
+    role: "Founder & Ceo",
     bio: "Builds fast, accessible and scalable digital experiences for growing businesses.",
-    avatar: "musama",
+    avatar: "MU",
+  },
+  {
+    name: "Sahar Noor",
+    role: "Co founder",
+    bio: "Leads qualified outreach and appointment-setting programs that keep pipelines moving.",
+    avatar: "SN",
+  },
+  {
+    name: "Muhammad Ali Khan",
+    role: "Head of marketing",
+    bio: "Leads qualified outreach and appointment-setting programs that keep pipelines moving.",
+    avatar: "MAK",
+  },
+
+  {
+    name: "Arsalan Ali",
+    role: "Head of sales and finance",
+    bio: "Leads qualified outreach and appointment-setting programs that keep pipelines moving.",
+    avatar: "AA",
   },
   {
     name: "Usama Faheem Ahmed",
-    role: "Full stack Developer (MERN)",
+    role: "Senior Manager IT",
     bio: "Full-Stack Engineer, Team Lead, Software Design, Automation Engineer and WordPress who delivers end-to-end solutions, from code to cloud deployment.",
-    avatar: "usama",
+    avatar: "UFA",
   },
   {
-    name: "Ali Irtiah Mukhat",
-    role: "Sales Operations Lead",
+    name: "Ali Irtiah",
+    role: "Legal Advisor",
     bio: "Leads qualified outreach and appointment-setting programs that keep pipelines moving.",
-    avatar: "usman",
+    avatar: "AIM",
   },
 ];
 

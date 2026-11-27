@@ -1,64 +1,19 @@
 import { PROCESS } from "@/lib/site-data";
 import { cn } from "@/lib/utils";
+import { ChevronRight } from "lucide-react";
 import { SectionHeading } from "./SectionHeading";
 
-// Desktop: row 1 = steps 1-3 (left→right), row 2 = steps 4-6 (left→right)
-const POSITION = [
-  "lg:col-start-1 lg:row-start-1",
-  "lg:col-start-2 lg:row-start-1",
-  "lg:col-start-3 lg:row-start-1",
-  "lg:col-start-1 lg:row-start-2",
-  "lg:col-start-2 lg:row-start-2",
-  "lg:col-start-3 lg:row-start-2",
-];
-
-// Curved connector between two circles (desktop)
-// set 1 = starts at top, arches over, ends at bottom
-// set 2 = starts at bottom, dips under, ends at top
-function CurveConnector({ set = 1 }: { set?: 1 | 2 }) {
-  const isDown = set === 1;
-
+// Straight connector between two circles (desktop).
+// Circle is size-16 (4rem) => center at top-8. Line starts just right of the
+// circle and runs to just before the next one.
+function StraightConnector() {
   return (
     <div
       aria-hidden
-      className="pointer-events-none absolute left-[calc(50%+3rem)] top-0 h-16 w-[calc(100%-6rem)] text-primary/60"
+      className="pointer-events-none absolute left-[calc(50%+2.75rem)] top-8 flex w-[calc(100%-5.5rem)] -translate-y-1/2 items-center text-primary/60"
     >
-      {/* curved dashed line (viewBox height 64 = container height in px) */}
-      <svg
-        viewBox="0 0 100 64"
-        preserveAspectRatio="none"
-        className="h-full w-full overflow-visible"
-      >
-        <path
-          d={isDown ? "M -5 0 C 20 -84, 70 -16, 100 15" : "M -3 60 C 20 110, 70 80, 100 40"}
-          fill="none"
-          stroke="currentColor"
-          strokeWidth="2"
-          strokeDasharray="6 7"
-          strokeLinecap="round"
-          vectorEffect="non-scaling-stroke"
-        />
-      </svg>
-
-      {/* arrow head: fixed-size SVG so it never gets stretched */}
-      <svg
-        viewBox="0 0 12 12"
-        className="absolute right-0 size-3.5"
-        style={{
-          top: isDown ? "17px" : "36px",
-          right: isDown ? "-3px" : "-7px",
-          transform: `translate(30%, -50%) rotate(${isDown ? 38 : -38}deg)`,
-        }}
-      >
-        <path
-          d="M 2 1.5 L 10 6 L 2 10.5"
-          fill="none"
-          stroke="currentColor"
-          strokeWidth="2"
-          strokeLinecap="round"
-          strokeLinejoin="round"
-        />
-      </svg>
+      <span className="h-0 flex-1 border-t-2 border-dashed border-current" />
+      <ChevronRight className="-ml-1 size-4 shrink-0" strokeWidth={2.5} />
     </div>
   );
 }
@@ -111,20 +66,17 @@ export function ProcessSection() {
           })}
         </ol>
 
-        {/* Desktop: two rows, left→right, curved connectors */}
-        <ol className="mt-20 hidden grid-cols-3 gap-y-24 lg:grid">
+        {/* Desktop: all steps in one straight horizontal line */}
+        <ol className="mt-20 hidden grid-cols-6 lg:grid">
           {PROCESS.map((p, i) => {
             const Icon = p.icon;
             const isPrimary = i % 2 === 0;
-            const isLastInRow = i % 3 === 2; // no connector after step 3 or step 6
+            const isLast = i === PROCESS.length - 1;
 
             return (
               <li
                 key={p.step}
-                className={cn(
-                  "group relative flex flex-col items-center px-8 text-center",
-                  POSITION[i],
-                )}
+                className="group relative flex flex-col items-center px-3 text-center"
               >
                 <span
                   className={cn(
@@ -145,12 +97,12 @@ export function ProcessSection() {
                 >
                   Step {p.step}
                 </span>
-                <h3 className="mt-2 text-lg font-bold text-foreground">{p.title}</h3>
-                <p className="mt-2 max-w-[16rem] text-sm leading-relaxed text-muted-foreground">
+                <h3 className="mt-2 text-base font-bold text-foreground xl:text-lg">{p.title}</h3>
+                <p className="mt-2 max-w-[14rem] text-sm leading-relaxed text-muted-foreground">
                   {p.text}
                 </p>
 
-                {!isLastInRow && <CurveConnector set={i % 3 === 0 ? 1 : 2} />}
+                {!isLast && <StraightConnector />}
               </li>
             );
           })}
